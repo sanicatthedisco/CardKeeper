@@ -10,7 +10,7 @@
             <ul>
                 <a href="#"><li id="title">CardKeeper</li></a>
                 <a href="register.php"><li class="right">Register</li></a>
-                <a href="login.html"><li class="right">Login</li></a>
+                <a href="login.php"><li class="right">Login</li></a>
             </ul>
         </header>
         
